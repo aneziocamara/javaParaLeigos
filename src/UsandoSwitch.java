@@ -13,7 +13,7 @@ public class UsandoSwitch {
                 out.println("Eis o lema do bom servidor,");
                 break;
             case 2:
-                out.println("/trabalhar, trabalhar, trabalhar");
+                out.println("Trabalhar, trabalhar, trabalhar");
                 break;
             case 3:
                 out.println("Se houver empecilho ou barreira,");
